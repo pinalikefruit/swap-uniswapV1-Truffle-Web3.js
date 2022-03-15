@@ -1,8 +1,12 @@
-### Swap with Uniswap v1, web3.js, truffle.
+### Swap with Uniswap v1, Web3.js, Truffle.
 
 In this repo, you can interact with the uniswap protocol v1.
-I'm show two examples  but the unique changes is the address of token and the address of exchange of the respective token. Can you find the last one in [Uniswap v1 factory ](https://kovan.etherscan.io/address/0xD3E51Ef092B2845f10401a0159B2B96e8B6c3D30#readContract
+I'm show two examples  but the unique changes is the address of token and the address of exchange of the respective token. Can you find the last one in [Uniswap v1 factory ](https://kovan.etherscan.io/address/0xD3E51Ef092B2845f10401a0159B2B96e8B6c3D30#readContract)
  using the getExchange() function, enter the contract address of token.
+
+Will you work with [Truffle](https://trufflesuite.com/) like development environment and the library  [Web3.js](https://web3js.readthedocs.io/en/v1.7.1/) that allow you to interact with remote ethereum node in this case the Kovan Testnet.
+
+ > [Get Faucet](https://faucets.chain.link/) Ether for Kovan Testnet
 
 #### Prerequsites
 Please install or have installed the following:

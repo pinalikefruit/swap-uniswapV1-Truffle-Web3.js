@@ -48,7 +48,7 @@ node_modules/
 jspm_packages/
 contracts/
 migrations/
-
+test/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
